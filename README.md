@@ -7,7 +7,7 @@ The model was originally designed and exported as MATLAB ODE function files from
 
 ## File descriptions
 Below is a list of the model files contained in this repository and their descriptions:
-* **Model and helper functions**: These functions are used to run model simulations or perform other calculations (e.g., PLSR-based sensitivity analysis) within the primary scripts used to generate figures.
+* **Model and helper functions**: These functions are used to run model simulations or perform other calculations and functions (e.g., perform model fitting, get outputs of interest, etc.) within the primary scripts used to generate figures.
   1. **_minus_sorafenib_new.m_**: Function for running the initial model, prior to refitting RAS-RAF binding (without sorafenib).
   2. **_minus_sorafenib_new_fitting.n_**: Function for running the model during fitting of RAS-RAF binding rate constants (without sorafenib).
   3. **_minus_sorafenib_new_refitted_rasraf_binding_**: Function for running the reparameterized model with refitted RAS-RAF binding rate constants (without sorafenib).
