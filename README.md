@@ -3,7 +3,7 @@
 This repository contains the code needed to run the computational model of RAS-RAF signaling described in Surve et al., *Localization dynamics of endogenous fluorescently labeled RAF1 in EGF-stimulated cells*. Molecular Biology of the Cell 2019 30:4, 506-523 (PMID: 30586319, https://doi.org/10.1091/mbc.E18-08-0512). A full description of the model, including its development and implementation in MATLAB, can be found in the methods section of the paper. The model was originally built with MATLAB 2017A, and it has been tested to run correctly on MATLAB releases as late as 2020B.
 
 ## VCell model
-The model was originally designed and exported as MATLAB ODE function files from the modeling software *The Virtual Cell* (*VCell*) (https://vcell.org/). The VCell model, “Surve_et_al_RAF1,” is available in the public domain at http://vcell.org/vcell-models and can also be accessed within *VCell* under the "Public BioModels/Published" section/folder. Within this section, the model is titled "Surve 2019 Localization dynamics of endogenous fluorescently-labeled RAF1 in EGF-stimulated cells" under the username "pmyers1995".
+The model was originally designed and exported as MATLAB ODE function files from the modeling software *The Virtual Cell* (*VCell*) (https://vcell.org/). The VCell model, “Surve_et_al_RAF1,” is available in the public domain at http://vcell.org/vcell-models and can also be accessed within *VCell* under the "Public BioModels/Published" section/folder. Within this section, the model can be found under the title "Surve 2019 Localization dynamics of endogenous fluorescently-labeled RAF1 in EGF-stimulated cells."
 
 ## File descriptions
 Below is a list of the model files contained in this repository and their descriptions:
